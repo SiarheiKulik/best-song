@@ -1,2 +1,6 @@
 The ship
 As day
+<<<<<<< HEAD
+=======
+
+>>>>>>> feature
